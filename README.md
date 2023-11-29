@@ -14,6 +14,6 @@ learning and growing.
 
 
 
-🧐 More about me:
+### 🧐 More about me:
 - 🔭 I'm currently working on MP3 player for Linux and Android using Python and Kivy
 - In free time, I 🚴 ride a bike and practice Latin dancing - Bachata 💃🕺
